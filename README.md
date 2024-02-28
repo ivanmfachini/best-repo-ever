@@ -2,4 +2,5 @@
 
 this is a text
 
-CONFLICT WILL EMERGE
+this is PART ONE of conflict ; CONFLICT WILL EMERGE ; conflict solved
+
